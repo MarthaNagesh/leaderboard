@@ -1,12 +1,15 @@
-# Getting Started with Create React App
+# Instructions to run this application;
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1. unzip the file
+2. open this folder in visual studio code
+3. In the terminal, run the below command
+        npm install
 
-## Available Scripts
+4.  In the project directory, you can run the below command in terminal
 
-In the project directory, you can run:
+        npm start
 
-### `npm start`
+--------------End of instructions to run this application--------------
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
